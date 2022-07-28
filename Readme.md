@@ -2,9 +2,9 @@
 ![welcome](https://img.shields.io/badge/Hello-Welcome-brightgreen)
 
 > # I am Sandeep Pal 🙏
-👉 This is my 7 project on HTML and CSS.
+👉 This is my 8 project on HTML and CSS.
 
-👉 🎧 Headphone website
+👉 Web Design landing page
 
 > # Learning
 1️⃣ Flexbox 
